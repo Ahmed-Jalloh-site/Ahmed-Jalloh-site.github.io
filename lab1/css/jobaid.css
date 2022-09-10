@@ -2,33 +2,38 @@
 /* All comments go between the front slash and asterisk symbols */
 
 body {
-	background-color:#EDEFE1;   /* background color */
-	color: #444;          /* text color for the entire page */
+	background-color:#d5f4e6;   /* background color */
+	color: black;          /* text color for the entire page */
 	font-size: 12px;
 	font-family: Verdana, Geneva, sans-serif;
 }
 
 h1, h2 { 
-	text-align:center;     /* centers h1 and h2 content */
+	text-align:left;     /* centers h1 and h2 content */
 }
+
+h1{font-size: 170%}
 
 /* styles for the "wrapper" div, notice that "wrapper" is preceded by "#" */
 #wrapper {
 	width:900px;
 	margin:0 auto;    /* centers wrapper */
 }
-
+.list {
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+		font-size: 120%
+}
 /* styles for the "stepTitle" class, notice that "stepTitle" is preceded by a dot */
 .stepTitle{
 	padding:4px;
-	text-align:center;
+	text-align:left;
 	font-size:12px;
 	border-top-left-radius: 20px;
 	border-top-right-radius: 20px;
 	border-bottom-left-radius: 20px;
 	border-bottom-right-radius: 20px;
 
-	background-color:#F7B857
+	background-color:#618685
  }
 
 .stepContent{ 
@@ -42,6 +47,9 @@ h1, h2 {
 	justify-content: center;
 }
 
+.yellows {
+	background-color: yellow;
+}
 .stepDescription {
 	width:55%;
 	padding:5px;
@@ -52,6 +60,16 @@ h1, h2 {
 	padding:6px;
 	border-radius: 20px;
 	text-align: center;
+}
+.warning {
+		background-color: #FBB8C4;
+		padding:10px;
+		border-radius:20px;
+	}
+
+.material-icons {
+	color:red; 
+	font-size:3em;
 }
 
 
