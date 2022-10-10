@@ -1,0 +1,16 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+      background: #eaece5;   /* background color */
+      color: #3b3a30;        /* text color */
+      font-size: 12px;
+      font-family:Verdana, Geneva, sans-serif;
+}
+
+#wrapper {
+      width:900px;
+      margin:0 auto;      /* centers wrapper */
+      background: white;  /* background color */
+      text-align:center;  /* centers wrapper content */
+}
+
