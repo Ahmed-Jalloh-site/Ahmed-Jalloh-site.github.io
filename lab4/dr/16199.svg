@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" onmouseup="{ if(window.parent.document.onmouseup) window.parent.document.onmouseup(arguments[0]);}" width="36" viewBox="0 0 36 36" id="S_Game_18_N_2x" height="36" data-name="S_Game_18_N@2x"><defs><style>
+      .fill {
+        fill: #6e6e6e;
+      }
+
+      
+    </style></defs><path data-cppathid="10000" transform="translate(0)" d="M35.091,24.854,32.562,16.4C30.835,10.635,25.988,6.02,20.529,6.02H14.708C9.248,6.02,4.4,10.635,2.675,16.4L.145,24.854c-.727,2.427,1.4,4.708,3.551,3.81l1.61-1.294a19.328,19.328,0,0,1,24.624,0l1.61,1.294C33.692,29.562,35.818,27.281,35.091,24.854Zm-23.81-4.085a5,5,0,1,1,5-5A5,5,0,0,1,11.281,20.769ZM23.114,16.2a3.5,3.5,0,1,1,3.5-3.5A3.5,3.5,0,0,1,23.114,16.2ZM28.5,23A3.5,3.5,0,1,1,32,19.5,3.5,3.5,0,0,1,28.5,23Z" class="fill"/><circle data-cppathid="10001" r="2.5" cy="15.769" cx="11.281" class="fill"/></svg>
