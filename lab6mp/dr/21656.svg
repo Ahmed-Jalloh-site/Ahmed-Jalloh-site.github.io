@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" onmouseup="{ if(window.parent.document.onmouseup) window.parent.document.onmouseup(arguments[0]);}" width="36" viewBox="0 0 36 36" id="S_Launch_18_N_2x" height="36" data-name="S_Launch_18_N@2x"><defs><style>
+      .fill {
+        fill: #6e6e6e;
+      }
+
+      
+    </style></defs><path data-cppathid="10000" id="Fill" d="M34.978.377A34.727,34.727,0,0,0,9.586,21.99a.522.522,0,0,0,.125.545l3.752,3.751a.522.522,0,0,0,.541.127A34.428,34.428,0,0,0,35.619,1.018.544.544,0,0,0,34.978.377Z" class="fill"/><path data-cppathid="10001" id="Fill2" d="M7.8,19.148H.9a.524.524,0,0,1-.46-.783C2.021,15.609,7.92,6.52,16.848,6.52,14.776,8.591,7.962,17.569,7.8,19.148Z" class="fill"/><path data-cppathid="10002" id="Fill3" d="M16.848,28.2v6.908a.524.524,0,0,0,.779.461c2.752-1.554,11.849-7.376,11.849-16.419C27.4,21.22,18.426,28.034,16.848,28.2Z" class="fill"/></svg>
