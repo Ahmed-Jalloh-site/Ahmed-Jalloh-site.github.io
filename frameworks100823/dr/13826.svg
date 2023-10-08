@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" onmouseup="{ if(window.parent.document.onmouseup) window.parent.document.onmouseup(arguments[0]);}" width="36" viewBox="0 0 36 36" id="S_AnchorSelect_18_N_2x" height="36" data-name="S_AnchorSelect_18_N@2x"><defs><style>
+      .fill {
+        fill: #6e6e6e;
+      }
+
+      
+    </style></defs><path data-cppathid="10000" d="M10,6,28,24H18l-8,8ZM8.5,2.054a.5.5,0,0,0-.5.5v32.78a.5.5,0,0,0,.5.5.49.49,0,0,0,.35-.147L18.524,26h13a.5.5,0,0,0,.354-.854L8.854,2.2A.49.49,0,0,0,8.5,2.054Z" class="fill"/></svg>
